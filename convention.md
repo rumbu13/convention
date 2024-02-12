@@ -53,7 +53,7 @@ needs this, then it should provide an escape mechanism on the application level.
  
 #### String
 
-- String types are limited to 268,435,456 characters 
+- String types are limited to 268,435,456 bytes 
 - An empty string ("") is a valid payload
  
 #### Integer
